@@ -3,6 +3,7 @@
 I recently built an interactive Power BI dashboard focused on sales and performance analysis for Blinkit! This project was designed to provide deep insights into sales trends, outlet performance, and product ratings.
 
 🔍 Key Highlights:
+Data Cleaning. 
 
 Total Sales, Average Sales, Number of Item & Average Ratings across all outlets.
 
